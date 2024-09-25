@@ -1,0 +1,45 @@
+start_time,end_time,speaker,transcript
+0.00,9.00,SPEAKER_01, Thank you for calling Nissan.
+9.00,10.00,SPEAKER_01, My name is Lauren.
+10.00,11.00,SPEAKER_01, Can I have your name?
+11.00,13.00,SPEAKER_00, My name is John Smith.
+13.00,14.00,SPEAKER_01," Thank you, John."
+14.00,15.00,SPEAKER_01, How can I help you?
+15.00,20.00,SPEAKER_00, I was just calling about to see how much it would cost to update the map in my car.
+20.00,22.00,SPEAKER_01, I'd be happy to help you with that today.
+22.00,24.00,SPEAKER_01, Did you receive a mailer from us?
+24.00,25.00,SPEAKER_00, I did.
+25.00,26.00,SPEAKER_00, Do you need the customer number?
+26.00,27.00,SPEAKER_01," Yes, please."
+27.00,28.00,SPEAKER_00, Okay.
+28.00,30.00,SPEAKER_00, It's 1-5-2-4-3.
+30.00,31.00,SPEAKER_00, Thank you.
+31.00,33.00,SPEAKER_01, And the year making model of your vehicle?
+33.00,36.00,SPEAKER_00," Yeah, I have a 2009 Nissan Altima."
+36.00,38.00,SPEAKER_00," Oh, nice car."
+38.00,39.00,SPEAKER_01," Yeah, thank you."
+39.00,40.00,SPEAKER_00, We really enjoy it.
+40.00,43.00,SPEAKER_01," Okay, I think I found your profile here."
+43.00,46.00,SPEAKER_01," Can I have you verify your address and phone number, please?"
+46.00,50.00,SPEAKER_00," Yes, it's 1255 North Research Way."
+50.00,53.00,SPEAKER_00, That's an RMUTA 84097.
+53.00,58.00,SPEAKER_00, And my phone number is 801-431-1000.
+58.00,59.00,SPEAKER_01," Thanks, John."
+59.00,61.00,SPEAKER_01, I located your information.
+61.00,68.00,SPEAKER_01," The newest version we have available for your vehicle is version 7.7, which was released in March of 2012."
+68.00,72.00,SPEAKER_01, The price of the new map is $99 plus shipping and tax.
+72.00,75.00,SPEAKER_01, Let me go ahead and set up this order for you.
+75.00,77.00,SPEAKER_00," Well, can we wait just a second?"
+77.00,79.00,SPEAKER_00, I'm not really sure if I can afford it right now.
+79.00,83.00,SPEAKER_01," All right, well, here are a few reasons to consider purchasing today."
+83.00,87.00,SPEAKER_01, It looks as though you have an updated your vehicle for three years.
+87.00,91.00,SPEAKER_01, So that would be the equivalent of getting three years' worth of updates for the price of one.
+91.00,92.00,SPEAKER_00, Okay.
+92.00,97.00,SPEAKER_01," In addition, special offers like the current promotion don't come around too often."
+97.00,102.00,SPEAKER_01, I would definitely recommend taking advantage of the extra $50 off before it expires.
+102.00,104.00,SPEAKER_00," Yeah, that did sound pretty good."
+104.00,108.00,SPEAKER_01," If I set this order up for you now, it'll ship out today and for $50."
+108.00,109.00,SPEAKER_01, less.
+109.00,113.00,SPEAKER_01, Do you have your credit card handy and I can place this order for you now?
+113.00,116.00,SPEAKER_00," Yeah, let's go ahead and use your visa."
+116.00,118.00,SPEAKER_00, My number is...
