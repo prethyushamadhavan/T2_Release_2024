@@ -1,0 +1,8 @@
+pandas
+ffmpeg
+SpeechRecognition
+soundfile
+sounddevice
+openai-whisper
+pyannote.audio
+torchvision

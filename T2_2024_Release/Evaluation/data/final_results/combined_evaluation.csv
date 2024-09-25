@@ -1,0 +1,3 @@
+file,category %,avg quality,average_predicted_sentiment,Thank Customer,Introduce Self,Ask Reason,Ask Accurate Details,Ask Permission,Resolve Issue,Offer Assistance,Thank Again,Farewell,Overall Score
+sampleCall1_text.csv,100.0,Neutral,0.66,5,5,5,10,10,50,5,0,0,90
+sampleCall2_text.csv,100.0,Neutral,0.66,5,5,5,10,10,50,5,0,0,90
